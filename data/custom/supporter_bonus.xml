@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../xsd/skills.xsd">
+	<skill id="70000" levels="100" name="Supporter Resilience">
+		<!-- Bonus for Blade Dancer and Swordsinger -->
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="P" />
+		<set name="magicLevel" val="1" />
+		<skillLevel id="1">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="2">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="3">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="4">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="5">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="6">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="7">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="8">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="9">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="10">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="11">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="12">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="13">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="14">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="15">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="16">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="17">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="18">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="19">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="20">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="21">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="22">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="23">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="24">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="25">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="26">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="27">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="28">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="29">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="30">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="31">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="32">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="33">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="34">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="35">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="36">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="37">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="38">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="39">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="40">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="41">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="42">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="43">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="44">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="45">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="46">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="47">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="48">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="49">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="50">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="51">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="52">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="53">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="54">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="55">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="56">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="57">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="58">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="59">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="60">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="61">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="62">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="63">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="64">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="65">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="66">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="67">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="68">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="69">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="70">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="71">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="72">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="73">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="74">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="75">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="76">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="77">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="78">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="79">
+			<stats>
+				<add stat="p_max_hp" value="0" />
+				<add stat="p_max_cp" value="0" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="80">
+			<stats>
+				<add stat="p_max_hp" value="100" />
+				<add stat="p_max_cp" value="25" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="81">
+			<stats>
+				<add stat="p_max_hp" value="200" />
+				<add stat="p_max_cp" value="50" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="82">
+			<stats>
+				<add stat="p_max_hp" value="300" />
+				<add stat="p_max_cp" value="75" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="83">
+			<stats>
+				<add stat="p_max_hp" value="400" />
+				<add stat="p_max_cp" value="100" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="84">
+			<stats>
+				<add stat="p_max_hp" value="500" />
+				<add stat="p_max_cp" value="125" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="85">
+			<stats>
+				<add stat="p_max_hp" value="600" />
+				<add stat="p_max_cp" value="150" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="86">
+			<stats>
+				<add stat="p_max_hp" value="700" />
+				<add stat="p_max_cp" value="175" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="87">
+			<stats>
+				<add stat="p_max_hp" value="800" />
+				<add stat="p_max_cp" value="200" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="88">
+			<stats>
+				<add stat="p_max_hp" value="900" />
+				<add stat="p_max_cp" value="225" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="89">
+			<stats>
+				<add stat="p_max_hp" value="1000" />
+				<add stat="p_max_cp" value="250" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="90">
+			<stats>
+				<add stat="p_max_hp" value="1100" />
+				<add stat="p_max_cp" value="275" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="91">
+			<stats>
+				<add stat="p_max_hp" value="1200" />
+				<add stat="p_max_cp" value="300" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="92">
+			<stats>
+				<add stat="p_max_hp" value="1300" />
+				<add stat="p_max_cp" value="325" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="93">
+			<stats>
+				<add stat="p_max_hp" value="1400" />
+				<add stat="p_max_cp" value="350" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="94">
+			<stats>
+				<add stat="p_max_hp" value="1500" />
+				<add stat="p_max_cp" value="375" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="95">
+			<stats>
+				<add stat="p_max_hp" value="1600" />
+				<add stat="p_max_cp" value="400" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="96">
+			<stats>
+				<add stat="p_max_hp" value="1700" />
+				<add stat="p_max_cp" value="425" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="97">
+			<stats>
+				<add stat="p_max_hp" value="1800" />
+				<add stat="p_max_cp" value="450" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="98">
+			<stats>
+				<add stat="p_max_hp" value="1900" />
+				<add stat="p_max_cp" value="475" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="99">
+			<stats>
+				<add stat="p_max_hp" value="2000" />
+				<add stat="p_max_cp" value="500" />
+			</stats>
+		</skillLevel>
+		<skillLevel id="100">
+			<stats>
+				<add stat="p_max_hp" value="2100" />
+				<add stat="p_max_cp" value="525" />
+			</stats>
+		</skillLevel>
+	</skill>
+</list>
